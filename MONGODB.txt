@@ -1,0 +1,2 @@
+MongoDB UserName = aditya
+MongoDB URL = "mongodb+srv://aditya:bxspv9wISMv2zkV1@cluster0.ziyrllc.mongodb.net/?appName=Cluster0"
